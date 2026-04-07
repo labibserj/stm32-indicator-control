@@ -53,8 +53,8 @@ HAL → Drivers → Scheduler → Integration → Application (Simulink State Ma
 | Right LED (PWM) | PA1  |
 | UART TX         | PA2  |
 | UART RX         | PA3  |
-| Left Button     | PC13 |
-| Right Button    | PB4  |
+| Left Button     | PB4 |
+| Right Button    | PB5  |
 
 ---
 
